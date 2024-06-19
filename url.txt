@@ -1,24 +1,75 @@
-J. Bang, S. Han, K. Lee and G. G. Lee, "Open-domain personalized dialog system using user-interested topics in system responses," 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), Scottsdale, AZ, USA, 2015, pp. 771-776.
-doi: 10.1109/ASRU.2015.7404866
-keywords: {Databases;Data mining;Knowledge based systems;Knowledge management;Impedance matching;Computer science;Measurement;Chat system;chatbot;open-domain dialog;knowledge base;topic-based dialog},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404866&isnumber=7404758
+S. Castagno, R. D. Curry and E. Loree, "Analysis and Comparison of a Fast Turn-On Series IGBT Stack and High-Voltage-Rated Commercial IGBTS," in IEEE Transactions on Plasma Science, vol. 34, no. 5, pp. 1692-1696, Oct. 2006, doi: 10.1109/TPS.2006.879551.
+keywords: {Insulated gate bipolar transistors;Voltage;Switching converters;Cooling;Pulse measurements;Circuit testing;Solid state circuits;Switches;Insulation;Prototypes;High frequency insulated-gate bipolar transistors (IGBTs);high voltage IGBT stack;IGBT series connection;insulated gate bipolar transistors;nonpunch-through IGBT;power electronic switching;power semiconductor switches;pulsed power switching;semiconductor device packaging;semiconductor device testing;solid state switches;switching;turn-off switching loss;turn-on time},
 
-Y. Osanai, E. Shimokawara and T. Yamaguchi, "Correlation Analysis of Template Generality and Output Evaluation in Dialogue Response Generation," 2018 Joint 10th International Conference on Soft Computing and Intelligent Systems (SCIS) and 19th International Symposium on Advanced Intelligent Systems (ISIS), Toyama, Japan, 2018, pp. 1133-1137.
-doi: 10.1109/SCIS-ISIS.2018.00178
-keywords: {Databases;Clothing;Dictionaries;Semantics;Intelligent systems;Maximum likelihood estimation;Grammar;Dialogue System;Evaluation;template generation},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8716192&isnumber=8716030
+P. Briff, J. Chivite-Zabalza, J. Nicholls and K. Vershinin, "Turn-Off Delay Compensation of Series-Connected IGBTs for HVDC Applications," in IEEE Transactions on Power Electronics, vol. 35, no. 11, pp. 11294-11298, Nov. 2020, doi: 10.1109/TPEL.2020.2983874.
+keywords: {Insulated gate bipolar transistors;Delays;Clamps;Logic gates;Capacitors;Integrated circuits;Transistors;High voltage direct current (HVdc);insulated-gate bipolar transistor (IGBT);turn-off delay;voltage source converter (VSC)},
 
-J. Ohmura and M. Eskenazi, "Context-Aware Dialog Re-Ranking for Task-Oriented Dialog Systems," 2018 IEEE Spoken Language Technology Workshop (SLT), Athens, Greece, 2018, pp. 846-853.
-doi: 10.1109/SLT.2018.8639596
-keywords: {Task analysis;Training;History;Speech recognition;Predictive models;Stacking;Mathematical model;Task-oriented dialog systems;response selection;re-ranking;ensemble learning;speech recognition errors},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639596&isnumber=8639030
+J. E. Huber, J. Miniböck and J. W. Kolar, "Generic Derivation of Dynamic Model for Half-Cycle DCM Series Resonant Converters," in IEEE Transactions on Power Electronics, vol. 33, no. 1, pp. 4-7, Jan. 2018, doi: 10.1109/TPEL.2017.2703300.
+keywords: {Equivalent circuits;Integrated circuit modeling;Capacitors;Magnetic resonance;Inductance;Switches;Load modeling;Dynamic equivalent circuit;half-cycle discontinuous conduction mode (HC-DCM);series resonant converters (SRC)},
 
-M. Gašić, D. Kim, P. Tsiakoulis and S. Young, "Distributed dialogue policies for multi-domain statistical dialogue management," 2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), South Brisbane, QLD, Australia, 2015, pp. 5371-5375.
-doi: 10.1109/ICASSP.2015.7178997
-keywords: {Training;Training data;Limiting;Databases;open-domain;multi-domain;dialogue systems;POMDP;Gaussian process},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178997&isnumber=7177909
+X. Yang, Y. Ding, J. Wang, G. Liu and P. R. Palmer, "An Improved Fourier-Series-Based IGBT Model by Mitigating the Effect of Gibbs Phenomenon at Turn on," in IEEE Transactions on Electron Devices, vol. 68, no. 7, pp. 3453-3459, July 2021, doi: 10.1109/TED.2021.3077204.
+keywords: {Mathematical model;Insulated gate bipolar transistors;Load modeling;Integrated circuit modeling;Fourier series;Switches;Predictive models;Ambipolar diffusion equation (ADE);boundary condition;Fourier series;insulated-gate bipolar transistor (IGBT);turn on},
 
-G. D. Duplessis, A. Pauchet, N. Chaignaud and J. Kotowicz, "A Conventional Dialogue Model Based on Empirically Specified Dialogue Games," 2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI), Vietri sul Mare, Italy, 2015, pp. 997-1004.
-doi: 10.1109/ICTAI.2015.143
-keywords: {Games;Context;Production;Semantics;Context modeling;Open source software;Coherence;Human-Machine Interaction;Dialogue Management;Dialogue Games},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7372240&isnumber=7372095
+V. Zorngiebel, M. Hecquard, E. Spahn, A. Welleman and S. Scharnholz, "Modular 50-kV IGBT Switch for Pulsed-Power Applications," in IEEE Transactions on Plasma Science, vol. 39, no. 1, pp. 364-367, Jan. 2011, doi: 10.1109/TPS.2010.2068061.
+keywords: {Insulated gate bipolar transistors;Optical switches;Logic gates;Current measurement;Ferrites;Resistors;IGBTs;pulsed power;series connection;signal rise time},
+
+Y. Wang, J. Wang, F. Liu, Q. Liu and R. Zou, "An RLL Current Sharing Snubber for Multiple Parallel IGBTs in High Power Applications," in IEEE Transactions on Power Electronics, vol. 37, no. 7, pp. 7555-7560, July 2022, doi: 10.1109/TPEL.2022.3148266.
+keywords: {Insulated gate bipolar transistors;Snubbers;Inductors;Integrated circuit interconnections;Transient analysis;Topology;Resistors;Current sharing;insulated gate bipolar transistor (IGBT);resistor–inductor–inductor   $(RLL)$   snubber;series inductor},
+
+D. V. M. M. Krishna and V. Agarwal, "Active gate control of series connected IGBTs using positive current feedback technique," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 52, no. 5, pp. 261-265, May 2005, doi: 10.1109/TCSII.2005.846306.
+keywords: {Insulated gate bipolar transistors;Feedback;Voltage control;Parasitic capacitance;Driver circuits;Space technology;Switching loss;Feeds;Circuit simulation;SPICE;Active gate control;current feedback;high voltage;series connection of insulated gate bipolar transistors (IGBTs)},
+
+Z. Wang and W. Qiao, "A Physics-Based Improved Cauer-Type Thermal Equivalent Circuit for IGBT Modules," in IEEE Transactions on Power Electronics, vol. 31, no. 10, pp. 6781-6786, Oct. 2016, doi: 10.1109/TPEL.2016.2539208.
+keywords: {Insulated gate bipolar transistors;Thermal resistance;Capacitance;Heating;Thermal analysis;Temperature distribution;Cauer-type thermal equivalent circuit (TEC);insulated-gate bipolar transistor (IGBT);lumped-capacitance approximation error;transient thermal behavior;Cauer-type thermal equivalent circuit;insulated-gate bipolar transistor;lumped-capacitance approximation error;transient thermal behavior},
+
+T. C. Lim, B. W. Williams, S. J. Finney and P. R. Palmer, "Series-Connected IGBTs Using Active Voltage Control Technique," in IEEE Transactions on Power Electronics, vol. 28, no. 8, pp. 4083-4103, Aug. 2013, doi: 10.1109/TPEL.2012.2227812.
+keywords: {Insulated gate bipolar transistors;Logic gates;Switches;Educational institutions;Voltage control;Electrical engineering;Buildings;Active voltage control (AVC);insulated-gate bipolar transistor (IGBT);series connection},
+
+S. Mohsenzade, "A Gate Driving Strategy for the Series-Connected IGBTs to Improve the Resilience Against IGBTs Short-Circuit Failures," in IEEE Transactions on Industrial Electronics, vol. 69, no. 10, pp. 9961-9971, Oct. 2022, doi: 10.1109/TIE.2021.3137594.
+keywords: {Insulated gate bipolar transistors;Logic gates;Voltage;Switches;Reliability;Degradation;Couplings;High voltage;insulated gate bipolar transistor (IGBT);reliability;snubber},
+
+S. Ji, T. Lu, Z. Zhao, H. Yu and L. Yuan, "Series-Connected HV-IGBTs Using Active Voltage Balancing Control With Status Feedback Circuit," in IEEE Transactions on Power Electronics, vol. 30, no. 8, pp. 4165-4174, Aug. 2015, doi: 10.1109/TPEL.2014.2360189.
+keywords: {Logic gates;Voltage control;Delays;Insulated gate bipolar transistors;Clamps;Transient analysis;Microcontrollers;series-connected IGBTs;active voltage balancing control;status feedback;Active voltage balancing control;series-connected IGBTs;status feedback},
+
+T. Lu, Z. Zhao, S. Ji, H. Yu and L. Yuan, "Active Clamping Circuit With Status Feedback for Series-Connected HV-IGBTs," in IEEE Transactions on Industry Applications, vol. 50, no. 5, pp. 3579-3590, Sept.-Oct. 2014, doi: 10.1109/TIA.2014.2308356.
+keywords: {Clamps;Insulated gate bipolar transistors;Switching loss;Threshold voltage;Switching circuits;Logic gates;Voltage control;Active clamping;high-voltage insulated-gate bipolar transistor (HV-IGBT);series connection;status feedback;voltage balancing},
+
+M. Zarghani, F. Iannuzzo, F. Blaabjerg and S. Kaboli, "A Distributed Turn-Off Delay Compensator Scheme for Voltage Balancing of Series-Connected IGBTs," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 3, pp. 2545-2557, June 2024, doi: 10.1109/JESTPE.2024.3390845.
+keywords: {Insulated gate bipolar transistors;Delays;Voltage;Logic gates;Switches;Switching circuits;Gate drivers;Series insulated gate bipolar transistors (IGBTs);turn-off delay time adjustment;voltage balancing},
+
+X. Liu, T. Jiao, D. Das, I. H. Naqvi and M. Pecht, "Nonparametric Model-Based Online Junction Temperature and State-of-Health Estimation for Insulated Gate Bipolar Transistors," in IEEE Access, vol. 9, pp. 95304-95316, 2021, doi: 10.1109/ACCESS.2021.3078028.
+keywords: {Temperature measurement;Junctions;Insulated gate bipolar transistors;Estimation;Voltage measurement;Real-time systems;Predictive models;IGBT;time-series ANN;state-of-health;junction temperature;artificial intelligence},
+
+M. Zarghani, S. Peyghami, F. Iannuzzo, F. Blaabjerg and S. Kaboli, "Voltage Balancing of Series IGBTs in Short-Circuit Conditions," in IEEE Transactions on Power Electronics, vol. 37, no. 5, pp. 5675-5686, May 2022, doi: 10.1109/TPEL.2021.3132456.
+keywords: {Insulated gate bipolar transistors;Short-circuit currents;Voltage;Snubbers;Clamps;Circuit faults;Aging;Clamp mode snubber;series insulated gate bipolar transistors (IGBTs);short-circuit fault;voltage balancing},
+
+I. Baraia, J. A. Barrena, G. Abad, J. M. Canales Segade and U. Iraola, "An Experimentally Verified Active Gate Control Method for the Series Connection of IGBT/Diodes," in IEEE Transactions on Power Electronics, vol. 27, no. 2, pp. 1025-1038, Feb. 2012, doi: 10.1109/TPEL.2011.2161336.
+keywords: {Logic gates;Insulated gate bipolar transistors;Switches;Driver circuits;Capacitance;Voltage control;Active gate control;series connection of insulated gate bipolar transistor (IGBT)/diodes},
+
+S. Ji, F. Wang, L. M. Tolbert, T. Lu, Z. Zhao and H. Yu, "An FPGA-Based Voltage Balancing Control for Multi-HV-IGBTs in Series Connection," in IEEE Transactions on Industry Applications, vol. 54, no. 5, pp. 4640-4649, Sept.-Oct. 2018, doi: 10.1109/TIA.2018.2836936.
+keywords: {Insulated gate bipolar transistors;Voltage control;Gate drivers;Logic gates;Clamps;Switches;Transient analysis;FPGA;high-voltage insulated gate bipolar transistor (HV-IGBT);series connection;voltage balancing control},
+
+F. Zhang, X. Yang, Y. Ren, L. Feng, W. Chen and Y. Pei, "A Hybrid Active Gate Drive for Switching Loss Reduction and Voltage Balancing of Series-Connected IGBTs," in IEEE Transactions on Power Electronics, vol. 32, no. 10, pp. 7469-7481, Oct. 2017, doi: 10.1109/TPEL.2016.2633658.
+keywords: {Insulated gate bipolar transistors;Logic gates;Voltage control;Switches;Clamps;Switching loss;Transient analysis;Insulated gate bipolar transistors (IGBTs);series-connection;active gate drive;switching loss reduction;voltage balancing},
+
+T. Lu, Z. Zhao, H. Yu, S. Ji, L. Yuan and F. He, "Parameter Design of a Three-Level Converter Based on Series-Connected HV-IGBTs," in IEEE Transactions on Industry Applications, vol. 50, no. 6, pp. 3943-3954, Nov.-Dec. 2014, doi: 10.1109/TIA.2014.2315439.
+keywords: {Clamps;Logic gates;Insulated gate bipolar transistors;Switches;Switching loss;Voltage control;Resistors;High-voltage insulated-gate bipolar transistor (HV-IGBT);parameter design;series connection;three level;voltage balancing},
+
+X. Yang, Y. Yuan, Z. Long, J. Goncalves and P. R. Palmer, "Robust Stability Analysis of Active Voltage Control for High-power IGBT Switching by Kharitonov's Theorem," in IEEE Transactions on Power Electronics, vol. 31, no. 3, pp. 2584-2595, March 2016, doi: 10.1109/TPEL.2015.2439712.
+keywords: {Insulated gate bipolar transistors;Automatic voltage control;Switches;Stability criteria;Active Voltage Control (AVC);Kharitonov's theorem;Stability analysis;IGBT gate drive;IGBT parameters;uncertainties;Nonlinearity;Robustness;Active voltage control (AVC);IGBT gate drive;IGBT parameters uncertainties;Kharitonov's theorem;nonlinearity;stability analysis},
+
+T. C. Lim, B. W. Williams and S. J. Finney, "Active Snubber Energy Recovery Circuit for Series-Connected IGBTs," in IEEE Transactions on Power Electronics, vol. 26, no. 7, pp. 1879-1889, July 2011, doi: 10.1109/TPEL.2010.2093539.
+keywords: {Snubbers;Switches;Logic gates;Voltage control;Threshold voltage;Insulated gate bipolar transistors;Active snubber circuit;energy recovery;insulated gate bipolar transistor (IGBT);series connection},
+
+M. Huang, B. Gao, Z. Yang, L. Lai and M. Gong, "A Carrier-Storage-Enhanced Superjunction IGBT With Ultralow Loss and On-State Voltage," in IEEE Electron Device Letters, vol. 39, no. 2, pp. 264-267, Feb. 2018, doi: 10.1109/LED.2017.2788458.
+keywords: {Insulated gate bipolar transistors;Schottky diodes;Doping;Electric potential;Junctions;Charge carrier processes;Logic gates;IGBT;superjunction;carrier-storage;turn-OFF loss;ON-state voltage},
+
+M. Jalil, H. Samet and T. Ghanbari, "Dynamic Polynomial Models With ARMA Coefficients Used for Modeling the DC Series Arc Fault in Photovoltaic Systems," in IEEE Transactions on Industrial Informatics, vol. 19, no. 5, pp. 6364-6375, May 2023, doi: 10.1109/TII.2022.3178954.
+keywords: {Circuit faults;Electrodes;Integrated circuit modeling;Data models;Mathematical models;Load modeling;Biological system modeling;DC series arc fault (DCSAF);photovoltaic (PV);polynomial model},
+
+L. Yang, L. Zhu, P. Fu, L. Yue and X. Yao, "A Module-Based Self-Balancing Series Connection for IGBTs," in IEEE Transactions on Industrial Electronics, vol. 68, no. 10, pp. 9410-9419, Oct. 2021, doi: 10.1109/TIE.2020.3021637.
+keywords: {Insulated gate bipolar transistors;Capacitors;Snubbers;Delays;Voltage control;Switches;HVDC transmission;Gate delay;self-balancing;series IGBTs},
+
+R. Wang, Y. Chen, J. Chen, L. Liang and L. Peng, "Plug-in gate-loop compensators for series-connected IGBT drivers in a solid-state fault current limiter," in CSEE Journal of Power and Energy Systems, vol. 8, no. 1, pp. 165-174, Jan. 2022, doi: 10.17775/CSEEJPES.2019.02450.
+keywords: {Insulated gate bipolar transistors;Logic gates;Voltage control;Gate drivers;Threshold voltage;Switches;Integrated circuits;Current limitation;direct current distribution network;insulated gate bipolar transistors (IGBTs);voltage balancing},
+
